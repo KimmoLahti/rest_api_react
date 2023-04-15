@@ -15,5 +15,7 @@ I used CSS in Default.CSS file and imported Default.css in each component, so it
 Everything works perfectly locally, front-end, back-end and mongodp. Zero errors or problems.
 
 Render deployment backend only works if i put the server on with command "node Server.js".
+I tryied close to 10 different solutions for this problem, but nothing worked, 
+i even tryied new builds entirely and different github repositories. I just have to start locally the server and the depoyment works.
 
 I deployed the app in Render, here is the link: https://api-react-dtq8.onrender.com 
