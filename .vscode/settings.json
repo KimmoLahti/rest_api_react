@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/4a54e3f6-d61a-4e08-b8bd-bb655998a975/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/uusitestireact",
+    "appService.deploySubpath": "."
+}
