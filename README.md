@@ -19,3 +19,4 @@ I tryied close to 10 different solutions for this problem, but nothing worked,
 i even tryied new builds entirely and different github repositories. I just have to start locally the server and the depoyment works.
 
 I deployed the app in Render, here is the link: https://api-react-dtq8.onrender.com 
+Pitures of app working: [ReactAppWorks.pdf](https://github.com/KimmoLahti/rest_api_react/files/11300350/ReactAppWorks.pdf)
